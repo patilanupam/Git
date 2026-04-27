@@ -699,11 +699,11 @@ mindmap
 ### Branch naming convention
 
 ```
-feature/short-description      → new features
-fix/bug-description             → bug fixes
-hotfix/critical-issue           → urgent production fixes
-chore/task-description          → maintenance tasks
-docs/what-you-documented        → documentation
+feature/short-description    → new features
+fix/bug-description          → bug fixes
+hotfix/critical-issue        → urgent production fixes
+chore/task-description       → maintenance tasks
+docs/what-you-documented     → documentation
 ```
 
 ### The daily developer loop
